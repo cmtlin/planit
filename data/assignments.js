@@ -382,8 +382,8 @@ assignments = {
       "title": "PLWS 20.5 - Exam 2 Study Guide",
       "course": "Chem 3B (Fall 2022)",
       "dueDate": "2022-11-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/423702",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423702/assignments/2382564/submissions/147321695",
+      "submitted": true
     },
     {
       "title": "Week 12 Disc (MONDAY SECTIONS)",
