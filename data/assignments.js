@@ -445,8 +445,8 @@ assignments = {
       "title": "Week 13 Disc (MONDAY SECTIONS)",
       "course": "Chem 3B (Fall 2022)",
       "dueDate": "2022-11-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/423702",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423702/assignments/2436530/submissions/148755760",
+      "submitted": true
     }
   ],
   "MATH 1B": [
@@ -531,8 +531,8 @@ assignments = {
       "title": "Homework 12",
       "course": "MATH 1B",
       "dueDate": "2022-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/422777",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/422777/assignments/2202161/submissions/148755490",
+      "submitted": true
     },
     {
       "title": "Project 1",
