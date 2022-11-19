@@ -424,8 +424,8 @@ assignments = {
       "title": "Exam 2 Analysis (Due Friday Nov 18)",
       "course": "Chem 3B (Fall 2022)",
       "dueDate": "2022-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/423702",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423702/assignments/2434161/submissions/149999264",
+      "submitted": true
     },
     {
       "title": "PLWS 24",
