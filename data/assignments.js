@@ -477,6 +477,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Week 15 Disc (FRIDAY SECTIONS)",
+      "course": "Chem 3B (Fall 2022)",
+      "dueDate": "2022-12-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/423702",
+      "submitted": false
+    },
+    {
       "title": "PLWS 26",
       "course": "Chem 3B (Fall 2022)",
       "dueDate": "2022-12-02T23:59:00",
