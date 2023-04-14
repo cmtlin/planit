@@ -1,3 +1,3 @@
 assignments = {
-  "PHYSICS 8B-LEC-002": []
+  "Physics 8B: Lecture Two": []
 };
